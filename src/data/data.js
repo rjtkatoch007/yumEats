@@ -70,7 +70,7 @@ export const topPicks = [
 export const mealData = [
     {
         id: 5,
-        title: 'cheeseless pizza',
+        title: 'Cheeseless pizza',
         category: 'pizza',
         img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693549207/yum_imgs/Cheeseless-Pizza_et9ddo.png',
         price: '$200',
