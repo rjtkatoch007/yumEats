@@ -21,10 +21,10 @@ const Meal = () => {
                 <button onClick={()=>fillterCat("salad")} className='m-1 border-orange-700 text-white bg-orange-700 hover:bg-white hover:text-orange-700 hover:border-orange-700'>Salad</button>
             </div>
         </div>  
-        <div className='grid md:grid-col-2 sm:grid-cols-1 lg:grid-cols-4 gap-6'>
+        <div className='grid md:grid-col-2 sm:grid-cols-1 lg:grid-cols-4 gap-6 py-4'>
             {
                 foods.map((item)=>(
-                    <div className='border-none hover:scale-105 duration-300'>
+                    <div key={item.id} className='border-none hover:scale-105 duration-300'>
                         <img src={item.img} alt={item.title} className='w-full h-[200px] object-cover rounded-lg' />
                         <div className='flex justify-between py-2 px-2'>
                             <p className='font-bold'>{item.title}</p>
