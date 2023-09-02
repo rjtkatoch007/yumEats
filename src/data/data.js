@@ -130,21 +130,63 @@ export const categories = [
     {
         id: 1,
         title: 'Burger',
-        img: ''
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637331/yum_cat_logos/burger_i35aux.png'
     },
     {
         id: 2,
         title: 'veg',
-        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693549217/yum_imgs/veg_r5w4bv.png'
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637331/yum_cat_logos/Vegibest_in0jqc.png'
     },
     {
-        id: 1,
+        id: 3,
         title: 'pizza',
-        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693549211/yum_imgs/pizza_vmulv4.png'
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637331/yum_cat_logos/pizza_h47q6r.jpg'
     },
     {
-        id: 2,
-        title: 'salad',
-        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693549216/yum_imgs/salad_nmwko5.png'
+        id: 4,
+        title: 'bakery',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637330/yum_cat_logos/cake_ebpoim.png'
+        
+    },
+    {
+        id: 5,
+        title: 'Sharwama',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637331/yum_cat_logos/sharwama_yufhoh.png'
+    },
+    {
+        id: 6,
+        title: 'Chicken',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637331/yum_cat_logos/chicken_gqec7u.jpg'
+    },
+    {
+        id: 7,
+        title: 'Icecream',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637331/yum_cat_logos/ice_cream_l2pfnz.jpg'
+    },
+    {
+        id: 8,
+        title: 'Wings',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637332/yum_cat_logos/wings_rqkdxt.png'
+    },
+    {
+        id: 9,
+        title: 'Beef',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637332/yum_cat_logos/healthy-food-logo_476121-102_r7iykx.png'
+        
+    },
+    {
+        id: 10,
+        title: 'veg',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637331/yum_cat_logos/0567.png_860_xow9uv.png'
+    },
+    {
+        id: 11,
+        title: 'Salad',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637332/yum_cat_logos/salad_g1rbbb.png'
+    },
+    {
+        id: 12,
+        title: 'Apple Pie',
+        img: 'https://res.cloudinary.com/dcvhtfxa1/image/upload/v1693637331/yum_cat_logos/applepie_c4lgp5.jpg'
     },
 ];
